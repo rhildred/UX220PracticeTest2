@@ -20,5 +20,3 @@ the .form-group that isn't blue but matches the page background.
 The year should update automatically.
 
 ![auto year](readmeimages/copyright.png)
-
-[Edit here](https://diy-pwa.dev/~/gh/rhildred/UX220PracticeTest2)
